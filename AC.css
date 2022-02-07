@@ -1,0 +1,31 @@
+body
+{
+    font-family: 'Lobster Two', cursive;
+    background-position: center;
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    font-size: 30px;
+    margin-top: 0px;
+    transition: .3s;
+}
+.heading:hover
+{
+    font-size: 35px;
+}
+.link
+{
+    background-color: black;
+    width: 80px;
+    border-radius: 10px;
+    float: right;
+    text-decoration: none;
+    list-style: none;
+}
+canvas
+{
+    border-radius: 10px;
+    box-shadow: 7px 7px 7px grey;
+}
